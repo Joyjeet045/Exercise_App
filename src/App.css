@@ -1,0 +1,10 @@
+.my-box{
+    transition:transform 1s;
+    
+}
+.my-box:hover{
+    transform:scale(1.1)
+}
+.exercise-card{
+    text-decoration: none;
+}
